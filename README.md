@@ -17,7 +17,9 @@ An Android application to report noise pollution from unauthorized loudspeakers 
 3. **സ്ഥാപനത്തിന്റെ വിവരങ്ങൾ:** ആരാധനാലയത്തിന്റെ തരം തിരഞ്ഞെടുക്കുക. **Open in Maps** വഴി ലൊക്കേഷൻ പരിശോധിച്ച് വിവരങ്ങൾ കോപ്പി ചെയ്ത് ആപ്പിൽ **Paste from clipboard and fill** അമർത്തുക (അല്ലെങ്കിൽ പേരും വിലാസവും നേരിട്ട് നൽകുക). തുടർന്ന് ഉച്ചഭാഷിണി **Permanent** ആണോ **Event** ആണോ എന്നും സമയവും നൽകുക.
 4. **പരാതി & ക്രോപ്പിംഗ്:** **Complaint details** എഴുതുകയും ബാധകമായ **Offence category** ടിക്ക് ചെയ്യുകയും ചെയ്യുക. എടുത്ത ഫോട്ടോയിൽ ഉച്ചഭാഷിണി വ്യക്തമായി കാണുന്ന രീതിയിൽ ക്രമീകരിച്ച് **Save crop** അമർത്തുക.
 5. **സമർപ്പിക്കുക (Submit):** നിങ്ങളുടെ പേരും ഫോൺ നമ്പറും നൽകി **I confirm** ടിക്ക് ചെയ്ത് സബ്മിറ്റ് ചെയ്യുക. ലഭിക്കുന്ന **Complaint Number**, **6-digit PIN** എന്നിവ സൂക്ഷിക്കുക.
-6. **വീഡിയോ/ചിത്രം ചേർക്കുക (24 മണിക്കൂറിനുള്ളിൽ):** ഹോം സ്ക്രീനിലെ **Add evidence** ക്ലിക്ക് ചെയ്ത് Complaint Number-ഉം PIN-ഉം നൽകുക. 24 മണിക്കൂറിനുള്ളിൽ ഗൂഗിൾ ഡ്രൈവിൽ (`Anyone with the link`) അപ്‌ലോഡ് ചെയ്ത ഫോട്ടോയുടെയും വീഡിയോയുടെയും ലിങ്കുകൾ സമർപ്പിക്കുക.
+
+### അധിക തെളിവുകൾ (Optional — ഇവന്റുകൾ റിപ്പോർട്ട് ചെയ്യുന്നവർക്ക് മാത്രം)
+1. **വീഡിയോ/ചിത്രം ചേർക്കുക (24 മണിക്കൂറിനുള്ളിൽ):** ഹോം സ്ക്രീനിലെ **Add evidence** ക്ലിക്ക് ചെയ്ത് Complaint Number-ഉം PIN-ഉം നൽകുക. 24 മണിക്കൂറിനുള്ളിൽ ഗൂഗിൾ ഡ്രൈവിൽ (`Anyone with the link`) അപ്‌ലോഡ് ചെയ്ത ഫോട്ടോയുടെയും വീഡിയോയുടെയും ലിങ്കുകൾ സമർപ്പിക്കുക. *(ഇത് താൽപര്യമുള്ളവർക്ക് മാത്രമാണ് വേണ്ടത്; പ്രത്യേകിച്ച് ഇവന്റുകളുടെ റിപ്പോർട്ടിംഗ് ചെയ്യുന്നവർക്ക് മാത്രം).*
 
 ---
 
@@ -28,5 +30,6 @@ An Android application to report noise pollution from unauthorized loudspeakers 
 3. **Institution Details:** Select the place type. Use **Open in Maps** to verify and copy the location, then tap **Paste from clipboard and fill** in the app (or enter the name and address manually). Select whether the usage is **Permanent** or an **Event**, along with the incident time.
 4. **Complaint & Crop:** Enter the **Complaint details**, tick the applicable **Offence category**, adjust the captured photo to clearly frame the loudspeaker, and tap **Save crop**.
 5. **Submit:** Enter your name and phone number, tick **I confirm**, and submit. Save the generated **Complaint Number** and **6-digit PIN**.
-6. **Add Video/Photo (Within 24 Hours):** Tap **Add evidence** on the home screen, enter your Complaint Number and PIN, and submit the Google Drive links (`Anyone with the link`) for your photo and video within 24 hours.
 
+### Additional Evidence (Optional — Mainly for Event Reporting)
+1. **Add Video/Photo (Within 24 Hours):** Tap **Add evidence** on the home screen, enter your Complaint Number and PIN, and submit the Google Drive links (`Anyone with the link`) for your photo and video within 24 hours. *(This step is completely optional and is primarily intended for those reporting specific events).*
