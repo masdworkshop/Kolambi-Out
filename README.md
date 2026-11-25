@@ -29,3 +29,4 @@ An Android application to report noise pollution from unauthorized loudspeakers 
 4. **Complaint & Crop:** Enter the **Complaint details**, tick the applicable **Offence category**, adjust the captured photo to clearly frame the loudspeaker, and tap **Save crop**.
 5. **Submit:** Enter your name and phone number, tick **I confirm**, and submit. Save the generated **Complaint Number** and **6-digit PIN**.
 6. **Add Video/Photo (Within 24 Hours):** Tap **Add evidence** on the home screen, enter your Complaint Number and PIN, and submit the Google Drive links (`Anyone with the link`) for your photo and video within 24 hours.
+
